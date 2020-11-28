@@ -8,7 +8,7 @@
     - Point 2.2
 
 **Contents of the 1st Point**
----Checkout the image below:
+--- Checkout the 'image' below:
 ![FinTech Fun](https://github.com/kaushikb39/FinTech/blob/main/Fintech-startups-1440x564_c.png)
 
 If you can't see the image above, [click here](https://github.com/kaushikb39/FinTech/blob/main/Fintech-startups-1440x564_c.png).
