@@ -17,8 +17,12 @@ Wave has a suite of products that help customers to manage their business financ
 ## How does this company use technology to their advantage?
 They provide cloud based solution and enables small businesses to connect with their bank accounts, sync expenses, balance their book and prepare to file their taxes to make accoutning easier. Overall, they provide different types of the products to meet different markets needs, it all done seamlessly and efficiently online.
 
-## Why are they considered a FinTech company?
+## Why is this company exemplary in the FinTech space? 
 Wave provides solutions that empower small business owners to simplify their finances while giving them more confidence to run their businesses. They use Cloud Technologies to change the traditional financial workflow to improve their end-user experience.
 
-## Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+## What are their strengths and weaknesses?
+### Strengths
+Wave Accounting provides free accounting and bookkeeping software. It lets freelancers and solopreneurs get accurate, intuitive accounting help at the blissful cost of exactly zero dollars, such as unlimited expense tracking, unlimited bank connections, unlimited users etc.
 
+### Weaknesses
+Based on user reviews, some of their weaknesses include having issues linking to existing bank accounts, reports that are provided seem to be stock reports with minimal ability to customize based on specific business needs, and overall ability to handle a large inventory.
