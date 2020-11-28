@@ -1,5 +1,5 @@
 # FinTech Fun
-## Markup Formatting
+## MarkDown Formatting
 
 ### Table of Contents
 - Point 1
