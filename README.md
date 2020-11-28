@@ -1,4 +1,4 @@
-# FINTECH: Wave Financial
+# Hello Seamless Banking: Wave Financial
 `Wave Financial Logo`
 ![Logo](https://github.com/kaushikb39/FinTech/blob/main/Wave_logo_RGB.png)
 
@@ -26,3 +26,8 @@ Wave Accounting provides free accounting and bookkeeping software. It lets freel
 
 ### Weaknesses
 Based on user reviews, some of their weaknesses include having issues linking to existing bank accounts, reports that are provided seem to be stock reports with minimal ability to customize based on specific business needs, and overall ability to handle a large inventory.
+
+## What is the prognosis for this company? Where do they expect to be in the future?
+The prognosis of Wave is looking bright! Wave has a lot of positive media buzz surrounding the company. They are building the financial platform across different areas, such as :  offers rigorously-managed digital asset exposure across a multitude of funds, and bespoke, tailored solutions for corporate and high net worth clients in managed accounts.
+
+For additional information, pls refer to [this link](https://en.wikipedia.org/wiki/Main_Page).
