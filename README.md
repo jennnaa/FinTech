@@ -1,6 +1,6 @@
 # Hello Seamless Banking: Wave Financial
 `Wave Financial Logo`
-![Logo](https://github.com/kaushikb39/FinTech/blob/main/Wave_logo_RGB.png)
+![Logo](https://github.com/jennnaa/FinTech/blob/main/images/Fintech-startups-1440x564_c.png)
 
 ## Background
 Wave is a company that provides financial services and software for small businesses and is headquartered in the Leslieville neighborhood in Toronto, Canada.
